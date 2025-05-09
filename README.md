@@ -12,6 +12,7 @@ I build, I break, I learn, and I build again. I’m relentlessly pushing myself 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bhagwati101x@gmail.com](mailto:bhagwati101x@gmail.com)
 * 🧠  I'm learning Agentic AI
+* 📝 I regularly write articles on [https://medium.com/@bhagwati101x](https://medium.com/@bhagwati101x)
 * ⚡  I'm always ready to colaborate with developers
 
 #### 🧠 Languages & Libraries  
