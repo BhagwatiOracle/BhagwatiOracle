@@ -44,6 +44,6 @@ I build, I break, I learn, and I build again. I’m relentlessly pushing myself 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/BhagwatiOracle"><img src="https://github-readme-stats.vercel.app/api?username=BhagwatiOracle&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=3382ed&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="BhagwatiOracle's GitHub stats" /></a>
+<a href="http://www.github.com/BhagwatiOracle"><img src="https://github-readme-stats.vercel.app/api?username=BhagwatiOracle&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=14b8a6&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="BhagwatiOracle's GitHub stats" /></a>
 
-<a href="https://github.com/BhagwatiOracle" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagwatiOracle&langs_count=10&title_color=a855f7&text_color=3382ed&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/BhagwatiOracle" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagwatiOracle&langs_count=10&title_color=facc15&text_color=14b8a6&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
