@@ -9,11 +9,23 @@
 
 
 <div align="center">
+<a href="https://your-link-here.com">
+<img src="discord-tile.svg" height="60" width="60" />
+</a>
 
-![Image](instagram.png)
-![Image](1)
-![Image](2)
-![Image](3)
+<a href="https://your-link-here.com">
+<img src="instagram-icon.svg" height="60" width="60" />
+</a>
+
+<a href="https://your-link-here.com">
+<img src="medium-icon.svg" height="60" width="60" />
+</a>
+
+<a href="https://your-link-here.com">
+<img src="linkedin-tile.svg" height="60" width="60" />
+</a>
+
+
 
 
 </div>
