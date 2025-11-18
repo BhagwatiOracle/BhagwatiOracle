@@ -24,11 +24,23 @@
 <a href="https://your-link-here.com">
 <img src="linkedin-tile.svg" height="60" width="60" />
 </a>
+</div>
 
 
+<div align="center">
 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=BhagwatiOracle&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=BhagwatiOracle&layout=compact&langs_count=8&card_width=400&theme=tokyonight" />
+  </a>
 
 </div>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
   
 # About Me
   
