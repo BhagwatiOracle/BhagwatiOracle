@@ -29,8 +29,8 @@
 <img src="linkedin-tile.svg" height="60" width="60" />
 </a>
 
+</div>
 
-----
 
 # 👨🏻‍💻  A Little Bit About Me and My Interests
 ```yaml
@@ -75,7 +75,7 @@ hobbies: ["Music", "Exercising", "Coding", "Art"]
 
 </div>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
   
 
