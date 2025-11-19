@@ -32,7 +32,7 @@
 </div>
 
 
-# 👨🏻‍💻  A Little Bit About Me and My Interests
+# 👨🏻‍💻  A Little Bit About Me & My Interests
 ```yaml
 name: Bhagwati
 located_in: Greater Noida, India
@@ -83,6 +83,6 @@ hobbies: ["Music", "Exercising", "Coding", "Art"]
 
 
 
-# MY Hacktoberfest Badges
+# 🥇 Hacktoberfest Badges
 
 [![An image of @bhagwatioracle's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhagwatioracle)](https://holopin.io/@bhagwatioracle)
