@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!&animation=fadeln&fontSize=50&height=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!&fontSize=50&height=100&animation=scaleIn)
 
 <div align="center">
   
@@ -18,15 +18,53 @@
 </a>
 
 <a href="https://your-link-here.com">
+<img src="twitter-tile.svg" height="60" width="60" />
+</a>
+
+<a href="https://your-link-here.com">
 <img src="medium-icon.svg" height="60" width="60" />
 </a>
 
 <a href="https://your-link-here.com">
 <img src="linkedin-tile.svg" height="60" width="60" />
 </a>
+
+
 </div>
 
+----
 
+# 👨🏻‍💻  A Little Bit About Me and My Interests
+```yaml
+name: Bhagwati
+located_in: Greater Noida, India
+current_job: AI/ML Developer
+education:
+  [
+    "Self-Taught Developer and Open-Source Contributor",
+    "Bachelor's of Technology in Computer Science and Engineering"
+  ]
+
+fields_of_interests:
+  [
+    "Artificial Intelligence",
+    "Data Science",
+    "Machine Learning",
+    "Open-Source"
+  ]
+technical_background:
+  [
+    "AI/ML Developer"
+    "Supercontrbutor - Hacktoberfest",
+    "Open-Source Contributor - GirlScriptSummer Of Code"
+  ]
+  
+currently_learning: ["LLMs, GenAI and Docker"]
+hobbies: ["Music", "Exercising", "Coding", "Art"]
+```
+
+
+-----
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -42,15 +80,11 @@
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
   
-# About Me
-  
-***I am a third-year engineering student specializing in Artificial Intelligence and Machine Learning. I am an active open-source contributor with participation in community programs such as Hacktoberfest and GirlScript Summer of Code.***
-
-</div>
 
 
 
 
-# Hacktoberfest Badges
+
+# MY Hacktoberfest Badges
 
 [![An image of @bhagwatioracle's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhagwatioracle)](https://holopin.io/@bhagwatioracle)
