@@ -32,6 +32,11 @@
 
 </div>
 
+<div align='center'>
+  
+<img src='PIkachu.gif' width='600' height='700'>
+
+</div>
 ----
 
 # 👨🏻‍💻  A Little Bit About Me and My Interests
